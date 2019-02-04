@@ -1,0 +1,18 @@
+{
+  "name": "hellobot",
+  "version": "0.0.1",
+  "description": "Welcome new connected users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "Lukáš Chábek",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
