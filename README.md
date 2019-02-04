@@ -7,7 +7,7 @@ Before you can use this bot, you need to install **Node.js**. This bot was devel
 
 To install this bot you simply use in bot's directory:
 ```shell
-npde install
+node install
 ```
 
 This will install all dependencies that are needed to run this bot.
